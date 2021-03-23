@@ -1,0 +1,1 @@
+C:\Users\JACOSTA\Desktop\Windows iot core meny\SocketServerNew\SocketServerNew\SocketServerNew.csproj;arm
